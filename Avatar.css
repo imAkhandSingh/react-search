@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi&display=swap');
+.contain{
+    font-family: 'Gugi', cursive;
+}
+
+.main{
+    height: 400px;
+    width: 400px
+}
+.space{
+    margin: 30px;
+}
+
+.clearfix {
+    overflow: auto;
+  }
